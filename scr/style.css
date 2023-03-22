@@ -6,11 +6,34 @@ header{
 	color: #fff;
 	padding:15px;
 	text-align: center;
+	border-bottom: 10px solid #000000;
+	border-top: 10px solid #000000;
+	border-left:  10px solid #000000;
+	border-right:  10px solid #000000;
+	
 }
 
 /*Grid de produtos*/
 .container{
 	background-color: #fff;
-	min-height: 30vh;
-	padding:20px;
+	min-height: 50vh;
+	padding: 40px;
+	border-left: 10px solid #000000;
+	border-right: 10px solid #000000;
+	border-bottom: 10px solid #000000;
+    background-image:
+
+}
+footer{
+	background-color: #00008b;
+	color:  #fff;
+	padding: 80px;
+	border-left: 10px solid #000000;
+	border-rigth:10px solid #000000;
+	border-bottom: 10px solid #000000;
+}
+
+.card{
+	width:31%;
+	display: inline-block;
 }
