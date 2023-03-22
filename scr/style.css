@@ -1,0 +1,11 @@
+*{padding: 0px; margin: 0px;box-sizing: border-box; font-family:Helvetica;}
+
+/*Cabeçalho*/
+header{
+	background-color:  #00008b;
+	color: #fff;
+	padding:15px;
+	text-align: center;
+}
+
+/*Grid de produtos*/
