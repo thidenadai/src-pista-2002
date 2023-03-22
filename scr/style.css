@@ -9,3 +9,8 @@ header{
 }
 
 /*Grid de produtos*/
+.container{
+	background-color: #fff;
+	min-height: 30vh;
+	padding:20px;
+}
